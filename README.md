@@ -1,4 +1,4 @@
-- Hi, I’m Seth Carlson
+Hi, I’m Seth Carlson
 - I’m interested in deep learning, reinforcement learning and distributed systems.
 - I’m currently learning about reinforcement learning, algorithms, and deep learning.
 - I’m looking to collaborate on AI projects.
