@@ -1,7 +1,7 @@
 Hi, I’m Seth Carlson
-- I’m interested in deep learning, reinforcement learning, distributed systems and databases.
-- I’m currently learning about software engineering, reinforcement learning, and deep learning.
-- I’m looking to collaborate on AI or crypto projects.
+- I love building things and I'm passionate about the prospects of artificial intelligence.
+- I’m currently learning about reinforcement learning, deep learning, and distributed system design.
+- I’m looking to collaborate on artificial intelligence or crypto projects.
 - Shoot me a message on LinkedIn to get in touch.
 <!---
 sdcarlson/sdcarlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
