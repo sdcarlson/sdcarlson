@@ -1,9 +1,15 @@
-Hi, I’m Seth Carlson
-- I love building things and I'm passionate about the prospects of artificial intelligence.
-- I’m currently learning about reinforcement learning, deep learning, and distributed system design.
-- I’m looking to collaborate on artificial intelligence or crypto projects.
-- Shoot me a message on LinkedIn to get in touch.
-<!---
-sdcarlson/sdcarlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Seth Carlson
+
+Software engineer in the San Francisco Bay Area. I mostly work in Go and TypeScript.
+
+Most of the repositories here are personal experiments or school projects. Recently I've been working on:
+
+- [first-principles-map](https://github.com/sdcarlson/first-principles-map) - a small browser tool for mapping assumptions, explanations, and unresolved gaps.
+- [grokcell](https://github.com/sdcarlson/grokcell) - a collection of skills for organizing multi-agent work.
+
+Some older projects:
+
+- [FPGA-Battleship](https://github.com/sdcarlson/FPGA-Battleship) - Battleship on a Basys 3 FPGA with VGA output.
+- [trychat_twitter](https://github.com/sdcarlson/trychat_twitter) - a TypeScript, React, and WebSocket chat app.
+
+[LinkedIn](https://www.linkedin.com/in/seth-carlson1/)
