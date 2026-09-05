@@ -2,14 +2,20 @@
 
 Software engineer in the San Francisco Bay Area. I mostly work in Go and TypeScript.
 
-Most of the repositories here are personal experiments or school projects. Recently I've been working on:
+I spend some of my time on personal experiments and projects with [SyberLabs](https://github.com/SyberLabs).
+
+## Recent work
+
+- [RISE](https://github.com/SyberLabs/RISE) - a browser-based audiovisual reader. My recent contributions focus on application structure and regression tests.
+- [OSAHR Cell](https://github.com/SyberLabs/OSAHR_Cell) - a Python research toolkit for simulating systems with changing relationships. I've been working on kernel matching and replay correctness.
+
+I'm also experimenting with [Grok Bot code review](https://github.com/SyberLabs/grok-bot-aggressive-deletion): instructions and behavior checks for simplifying code while preserving what it needs to do.
+
+## Personal projects
 
 - [first-principles-map](https://github.com/sdcarlson/first-principles-map) - a small browser tool for mapping assumptions, explanations, and unresolved gaps.
 - [grokcell](https://github.com/sdcarlson/grokcell) - a collection of skills for organizing multi-agent work.
 
-Some older projects:
-
-- [FPGA-Battleship](https://github.com/sdcarlson/FPGA-Battleship) - Battleship on a Basys 3 FPGA with VGA output.
-- [trychat_twitter](https://github.com/sdcarlson/trychat_twitter) - a TypeScript, React, and WebSocket chat app.
+Earlier projects include [FPGA Battleship](https://github.com/sdcarlson/FPGA-Battleship) and a [React/WebSocket chat app](https://github.com/sdcarlson/trychat_twitter).
 
 [LinkedIn](https://www.linkedin.com/in/seth-carlson1/)
