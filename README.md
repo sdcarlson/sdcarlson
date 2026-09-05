@@ -9,12 +9,10 @@ I spend some of my time on personal experiments and projects with [SyberLabs](ht
 - [RISE](https://github.com/SyberLabs/RISE) - a browser-based audiovisual reader. My recent contributions focus on application structure and regression tests.
 - [OSAHR Cell](https://github.com/SyberLabs/OSAHR_Cell) - a Python research toolkit for simulating systems with changing relationships. I've been working on kernel matching and replay correctness.
 
-I'm also experimenting with [Grok Bot code review](https://github.com/SyberLabs/grok-bot-aggressive-deletion): instructions and behavior checks for simplifying code while preserving what it needs to do.
-
 ## Personal projects
 
 - [first-principles-map](https://github.com/sdcarlson/first-principles-map) - a small browser tool for mapping assumptions, explanations, and unresolved gaps.
-- [grokcell](https://github.com/sdcarlson/grokcell) - a collection of skills for organizing multi-agent work.
+- [grokcell](https://github.com/sdcarlson/grokcell) - Grok Bot templates and skills for problem-solving, review, and coordinating work.
 
 Earlier projects include [FPGA Battleship](https://github.com/sdcarlson/FPGA-Battleship) and a [React/WebSocket chat app](https://github.com/sdcarlson/trychat_twitter).
 
