@@ -11,7 +11,7 @@ I spend some of my time on personal experiments and projects with [SyberLabs](ht
 
 ## Personal projects
 
-- [first-principles-map](https://github.com/sdcarlson/first-principles-map) - a small browser tool for mapping assumptions, explanations, and unresolved gaps.
+- [first-principles-map](https://github.com/sdcarlson/first-principles-map) - a small browser tool for mapping assumptions, explanations, and unresolved gaps. I'm also exploring evidence-linked research handoffs through bounded physics reproductions.
 - [grokcell](https://github.com/sdcarlson/grokcell) - Grok Bot templates and skills for problem-solving, review, and coordinating work.
 
 Earlier projects include [FPGA Battleship](https://github.com/sdcarlson/FPGA-Battleship) and a [React/WebSocket chat app](https://github.com/sdcarlson/trychat_twitter).
