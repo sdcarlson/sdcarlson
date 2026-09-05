@@ -6,6 +6,7 @@ I spend some of my time on personal experiments and projects with [SyberLabs](ht
 
 ## Recent work
 
+- [Relay](https://github.com/SyberLabs/relay) - a job-search workspace for research, application history, and draft review, with local Notion, Claude, and Grok Bot integrations.
 - [RISE](https://github.com/SyberLabs/RISE) - a browser-based audiovisual reader. My recent contributions focus on application structure and regression tests.
 - [OSAHR Cell](https://github.com/SyberLabs/OSAHR_Cell) - a Python research toolkit for simulating systems with changing relationships. I've been working on kernel matching and replay correctness.
 
