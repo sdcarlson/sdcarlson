@@ -6,7 +6,10 @@ I spend some of my time on personal experiments and projects with [SyberLabs](ht
 
 ## Recent work
 
-- [Relay](https://github.com/SyberLabs/relay) - a job-search workspace for research, application history, and draft review, with local Notion, Claude, and Grok Bot integrations.
+<!-- relay:public:start -->
+- **[RELAY](https://github.com/SyberLabs/relay) - Lead engineer.** A job-search review workspace for research, application history and exact accepted drafts. Current integrations include Obsidian, Notion, Claude and Grok Bot. [ChatGPT and Codex support is implemented and in review](https://github.com/SyberLabs/relay/pull/13), including a local Codex CLI adapter.
+<!-- relay:public:end -->
+
 - [RISE](https://github.com/SyberLabs/RISE) - a browser-based audiovisual reader. My recent contributions focus on application structure and regression tests.
 - [OSAHR Cell](https://github.com/SyberLabs/OSAHR_Cell) - a Python research toolkit for simulating systems with changing relationships. I've been working on kernel matching and replay correctness.
 
