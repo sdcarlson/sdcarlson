@@ -7,7 +7,7 @@ I spend some of my time on personal experiments and projects with [SyberLabs](ht
 ## Recent work
 
 <!-- relay:public:start -->
-- **[RELAY](https://github.com/SyberLabs/relay) - Lead engineer.** A job-search review workspace for research, application history and exact accepted drafts. Current integrations include Obsidian, Notion, Claude and Grok Bot. [ChatGPT and Codex support is implemented and in review](https://github.com/SyberLabs/relay/pull/13), including a local Codex CLI adapter.
+- **[RELAY](https://github.com/SyberLabs/relay) - Lead engineer.** A job-search review workspace that keeps research, application history, and exact accepted drafts together across your tools. Integrations include ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot. [ChatGPT and Codex](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md) use explicit prompt/file handoffs, with an additional local Codex CLI adapter. early release; drafts require human review.
 <!-- relay:public:end -->
 
 - [RISE](https://github.com/SyberLabs/RISE) - a browser-based audiovisual reader. My recent contributions focus on application structure and regression tests.
