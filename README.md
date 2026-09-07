@@ -7,7 +7,7 @@ I spend some of my time on personal experiments and projects with [SyberLabs](ht
 ## Recent work
 
 <!-- relay:public:start -->
-- **[RELAY](https://github.com/SyberLabs/relay) - Lead engineer.** SyberLabs' job-search product: a private review workspace that remembers the roles you researched, the drafts you accepted, and the interviews you started. Assistants help you write; Relay keeps the record. Integrations include ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever. [ChatGPT and Codex](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md) use explicit prompt/file handoffs, with an additional local Codex CLI adapter. early release; drafts require human review.
+- **[RELAY](https://github.com/SyberLabs/relay) - Lead engineer.** SyberLabs' invited-pilot workspace for one job at a time: keep candidate facts for reuse, hand context to your assistant, review returned wording, and accept exact text. Relay preserves research and review history for later use. Integrations include ChatGPT, Codex, Obsidian, Notion, Claude, Grok Bot, Tracker CSV, Greenhouse, Lever. [ChatGPT and Codex](https://github.com/SyberLabs/relay/blob/main/integrations/OPENAI.md) use explicit prompt/file handoffs, with an additional local Codex CLI adapter. invited pilot; drafts require human review.
 <!-- relay:public:end -->
 
 - [RISE](https://github.com/SyberLabs/RISE) - a browser-based audiovisual reader. My recent contributions focus on application structure and regression tests.
