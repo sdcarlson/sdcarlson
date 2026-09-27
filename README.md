@@ -5,6 +5,7 @@ Software engineer at Tesla. UCLA CS alum.
 I work mostly in Go and TypeScript. I'm also building [Relay](https://github.com/SyberLabs/relay).
 
 **Languages:** Go, TypeScript, JavaScript, Python, C, Verilog
+
 **Frameworks and tools:** React, Node.js, FastAPI, Cloudflare Workers, MongoDB, SQL, Docker, GitHub Actions
 
 ## Selected work
